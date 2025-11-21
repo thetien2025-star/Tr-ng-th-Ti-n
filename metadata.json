@@ -1,0 +1,7 @@
+{
+  "name": "Copy of App chính",
+  "description": "An AI-powered application to seamlessly blend character and product images into famous Vietnamese landscapes, creating stunning composite photographs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
